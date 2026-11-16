@@ -1,5 +1,6 @@
 title: "magpie-nexus"
-description: "High availability  and network topology specifications for yetone/magpie - Autonomous high-performance implementation and production toolkit."
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
+description: "Official architecture documentation and production specifications for magpie-nexus"
+lang: en-US
+exclude:
+  - node_modules
+  - .git
